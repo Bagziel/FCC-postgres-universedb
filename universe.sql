@@ -344,6 +344,7 @@ INSERT INTO public.planet VALUES (8, 6, 8, 'belobog', 2300, 590, 1529.30, 'rocky
 INSERT INTO public.planet VALUES (9, 6, 9, 'planea', 5200, 390, 1600.00, 'rocky', false, false);
 INSERT INTO public.planet VALUES (10, 6, 10, 'vanderhal', 1230, 895, 1770.39, 'gas', false, false);
 INSERT INTO public.planet VALUES (11, 6, 11, 'edenia', 6000, 3990, 12000.50, 'rocky', true, false);
+INSERT INTO public.planet VALUES (12, 6, 12, 'duckley', 5500, 390, 1600.55, 'rocky', true, true);
 
 
 --
